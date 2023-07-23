@@ -6,7 +6,7 @@ app.use(express.json());
 
 
 app.get('/', HomeHandler);
-app.get('/games', GamesHandler);
+app.get('/pets', PetsHandler);
 
 
 function HomeHandler(req,res){
@@ -14,8 +14,8 @@ function HomeHandler(req,res){
 }
 
 
-function GamesHandler(req,res){
-    res.status(200).json('Welcome To Games Page!')
+function PetsHandler(req,res){
+    res.status(200).json('Welcome To Pets Page!')
 }
 
  app.listen(5000, ()=> {console.log('Up and running on port: 5000')
