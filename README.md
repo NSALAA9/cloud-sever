@@ -6,3 +6,5 @@
 ![3](https://github.com/NSALAA9/cloud-sever/assets/129075779/f5465d35-53ca-40d2-9060-b3d53ed7ddf8)
 ![4](https://github.com/NSALAA9/cloud-sever/assets/129075779/869c1f85-c0fe-462c-afbd-b9d2d7b159aa)
 ![5](https://github.com/NSALAA9/cloud-sever/assets/129075779/2a077715-010c-4717-be24-17c9f8ecc9f4)
+![environment](https://github.com/NSALAA9/cloud-sever/assets/129075779/a78d84e8-bb09-456e-a6ab-5ffb8e283886)
+[Deployed Link](Pets16-env.eba-yymg3dtv.us-east-1.elasticbeanstalk.com )
